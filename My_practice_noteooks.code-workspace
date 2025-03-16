@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../My_practice_noteooks"
+		},
+		{
+			"path": "../My DataScienceProjects"
+		},
+		{
+			"path": "../PW_Skills _End2End_Projects"
+		},
+		{
+			"path": "../PWSkills_Assignments"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
